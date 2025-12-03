@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ユリーカ",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2025-12-03T01:28:22.476325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユリーカ",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/01_ユリーカ_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/02_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/03_ユリーカ_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユリーカ",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/04_ユリーカ_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/05_ユリーカ_スキマスイッチ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ユリーカ produced by GRAPEVINE",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_ユリーカ_produced_by_GRAPEVINE_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_ユリーカ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ユリーカ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_ユリーカ_スキマスイッチ.txt"
+    }
+  ]
+}
